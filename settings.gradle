@@ -2,3 +2,4 @@ rootProject.name = 'SpotiSong'
 include 'libs:SpotifyData'
 findProject(':libs:SpotifyData')?.name = 'sporifydata'
 
+include 'sporifydata'

@@ -1,6 +1,6 @@
 package ayds.spotisong.aurora.song.model.repository;
 
-import ayds.spotisong.aurora.song.model.repository.external.ExternalModule;
+import ayds.jk5.spotisong.song.external.ExternalModule;
 import ayds.spotisong.aurora.song.model.repository.local.LocalModule;
 
 public class RepositoryModule {
